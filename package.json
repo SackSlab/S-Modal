@@ -1,7 +1,6 @@
 {
-  "name": "s-modal",
+  "name": "swc-modal",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -10,6 +9,8 @@
     "storybook:build": "vue-cli-service storybook:build -c config/storybook",
     "storybook:serve": "vue-cli-service storybook:serve -p 6006 -c config/storybook"
   },
+  "license": "bsd-3-clause",
+  "author": "sackslab",
   "dependencies": {
     "core-js": "^2.6.5",
     "vue": "^2.6.10"

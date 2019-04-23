@@ -5,11 +5,11 @@
 ### Install
 
 ```
-yarn add s-modal
+yarn add swc-modal
 
 or
 
-npm install s-modal
+npm install swc-modal
 ```
 
 ## Project setup
